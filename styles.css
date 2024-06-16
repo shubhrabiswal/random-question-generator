@@ -5,10 +5,10 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f4f4f4;
+    background-color: #afcacf;
 }
 .container {
-    text-align: center;
+    text-align: center;  
     padding: 20px;
     background: white;
     border-radius: 10px;
@@ -23,4 +23,5 @@ body {
 #questionDisplay {
     margin-top: 20px;
     font-size: 18px;
+    color: #4d7880;
 }
